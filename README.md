@@ -1,33 +1,31 @@
+# Tasks App
 
-# To-Do List Application
+## Summary
+I made this task organizer application as a way to learn and practice JavaScript and how to manipulate DOM objects. This is a very simple task organizer that helps you arrange your day without excess details. Anyone can add and amend their list anytime.
 
-## Overview
-I built this To-Do List app as a practical way to get better at JavaScript and DOM manipulation. It is a simple, clean task manager designed to help organize daily activities without any unnecessary clutter. Users can easily add, edit, and check off tasks as they go about their day.
+## Functions
+- Add tasks to your list every day
+- Highlight tasks whenever you complete them
+- Modify tasks whenever you notice mistakes
+- Remove unnecessary tasks
+- Mobile-friendly design for easy usage on the mobile phone and PC
+- Local storage feature so that your list stays saved after the page is refreshed
 
-## Features
-- Add new tasks to your daily list
-- Mark tasks as completed when you finish them
-- Edit task details if you made a typo or your plans change
-- Delete tasks you no longer need
-- A responsive design that works just as well on a phone as it does on a desktop
-- Local data storage support so your list does not disappear when you refresh the page
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-## Tech Stack
-- HTML5
-- CSS3
-- Vanilla JavaScript
+## Goals
+The main purpose of this application is to achieve a number of learning objectives:
+- Create a useful productivity app from scratch.
+- Develop programming skills, especially those connected with the manipulation of DOM.
+- Be able to manage the user’s actions and events.
+- Learn to design responsive web pages.
 
-## Project Goals
-I set out to build this app to achieve a few specific learning milestones:
-- Build a practical productivity application from scratch.
-- Improve my JavaScript skills, specifically working with the DOM.
-- Learn how to handle user interactions and events effectively.
-- Practice creating web interfaces that adapt smoothly to different screen sizes.
-
-## Future Improvements
-There is always room to grow. Here is what I am planning to add next:
-- User authentication so people can have their own private accounts.
-- Cloud storage using Firebase or a similar database so tasks sync across devices.
-- Task categories and deadlines to make organization a bit more powerful.
-- A dark mode toggle for late-night planning.
-```
+## Future Plans
+I plan to add some more features to my task organizer in the future:
+- Register users – to allow everyone to have a private login.
+- Cloud storage feature – to synchronize tasks from different devices.
+- Categories and deadlines for an advanced organization.
+- Dark theme.
